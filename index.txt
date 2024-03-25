@@ -2,24 +2,21 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
+alt = Valentino Liaw
 Richard hanrick
-Web developer
-
+Computer Engineer
 Show Contacts
 
 Email
-richard@example.com
-
+valentino_liaw@yahoo.com
 Phone
-+1 (213) 352-2795
++6 016 226 0620
 
 Birthday
-June 23, 1982
+February 14, 1997
 
 Location
-Sacramento, California, USA
-
+Mile 4 Kampung Kionsom Jalan Lamam, Inanam, Kota Kinabalu, Sabah
 # navbar
 
 About
@@ -32,10 +29,7 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+As a 27-year-old Computer Engineering graduate that has experience in hardware and software development that is closely related to the Internet of Things development, I am currently interest to pursue my passion towards the field of Software Engineering. I am equiped with adequate knowledge and skills in C/C++, CSS, PHP, HTML, Javascript, Android, Node.js and Firebase. I am highly motivated to further improve or learn new skills and see my contributions bring success to potential employers
 
 ## service
 
